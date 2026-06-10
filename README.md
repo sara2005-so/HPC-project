@@ -1,5 +1,29 @@
 # Mini-HPC and Hybrid | HPC-Big Data Clusters
 
+# Mini-HPC Cluster & Distributed Analysis Project
+
+## Overview
+This project involves setting up a 3-node Mini-HPC Cluster on virtual machines. The infrastructure is orchestrated using Docker Swarm, and distributed data analysis is performed using Apache Spark to analyze gene expression datasets.
+
+## Deliverables Included
+- **Infrastructure:** Configured 3-node cluster with Passwordless SSH.
+- **Orchestration:** Docker Swarm stack deploying Spark master and worker nodes.
+- **Analysis:** Distributed Python script (`final_analysis.py`) for processing bioinformatics data.
+
+## Project Structure
+- `hostfile`: Contains the IP addresses of the cluster nodes.
+- `spark-stack.yml`: The Docker stack configuration file.
+- `scripts/`: Contains the analysis script.
+- `screenshots/`: Visual evidence of the setup and execution steps.
+- `reports/`: Detailed project analysis report.
+
+## How to Deploy
+1. Ensure the cluster is initialized: `docker swarm init`
+2. Deploy the stack: `docker stack deploy -c spark-stack.yml spark`
+3. Execute the analysis: `python3 scripts/final_analysis.py`
+
+## screenshot:
+
 ## Task1: Cluster Setup & Validation
 
 ### Network Hosts Setup
