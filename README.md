@@ -30,16 +30,16 @@
 ## Task2: Execution and Analysis Flow
 
 ### 1. Docker Swarm Initialization
-![Docker Swarm Initialization](<Docker Swarm Initialization>)
+![Docker Swarm Initialization](<Docker Swarm Initialization.png>)
 
 ### 2. Spark Stack Deployment
-![Spark Stack Deployment](<Spark Stack Deployment>)
+![Spark Stack Deployment](<Spark Stack Deployment.png>)
 
 ### 3. Image Pull Errors
-![Image Pull Errors](<Image Pull Errors>)
+![Image Pull Errors](<Image Pull Errors.png>)
 
 ### 4. Successful Containers Status
-![Successful Containers Status](<Successful Containers Status>)
+![Successful Containers Status](<Successful Containers Status.png>)
 
 ### 5. Final Analysis Results
-![Final Analysis Results](<Final Analysis Results>)
+![Final Analysis Results](<Final Analysis Results.png>)
