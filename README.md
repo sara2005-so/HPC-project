@@ -25,3 +25,21 @@
 
 ### MPI Python Validation
 ![MPI Python Validation](08_mpi_python_validation.png)
+
+
+## Task2: Execution and Analysis Flow
+
+### 1. Docker Swarm Initialization
+![Docker Swarm Initialization](<Docker Swarm Initialization>)
+
+### 2. Spark Stack Deployment
+![Spark Stack Deployment](<Spark Stack Deployment>)
+
+### 3. Image Pull Errors
+![Image Pull Errors](<Image Pull Errors>)
+
+### 4. Successful Containers Status
+![Successful Containers Status](<Successful Containers Status>)
+
+### 5. Final Analysis Results
+![Final Analysis Results](<Final Analysis Results>)
