@@ -1,4 +1,4 @@
-# HPC-project
+# Mini-HPC and Hybrid | HPC-Big Data Clusters
 
 ## Task1: Cluster Setup & Validation
 
