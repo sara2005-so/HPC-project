@@ -24,28 +24,28 @@ This project involves setting up a 3-node Mini-HPC Cluster on virtual machines. 
 
 ## Task1: Cluster Setup & Validation
 
-### Network Hosts Setup
+### 1. Network Hosts Setup
 ![Network Hosts Setup](01_network_hosts_setup.png)
 
-### Cluster Connectivity Test
+### 2. Cluster Connectivity Test
 ![Cluster Connectivity Test](02_cluster_connectivity_test.png)
 
-### SSH Worker 1
+### 3. SSH Worker 1
 ![SSH Worker 1](03_ssh_worker1.png)
 
-### SSH Worker 2
+### 4. SSH Worker 2
 ![SSH Worker 2](04_ssh_worker2.png)
 
-### OpenMPI Installation
+### 5. OpenMPI Installation
 ![OpenMPI Installation](05_openmpi_installation.png)
 
-### Hostfile Configuration
+### 6. Hostfile Configuration
 ![Hostfile Configuration](06_hostfile_configuration.png)
 
-### MPI Hello World
+### 7. MPI Hello World
 ![MPI Hello World](07_mpi_hello_world.png)
 
-### MPI Python Validation
+### 8. MPI Python Validation
 ![MPI Python Validation](08_mpi_python_validation.png)
 
 
