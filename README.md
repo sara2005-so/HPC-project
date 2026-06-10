@@ -1,7 +1,5 @@
 # Mini-HPC and Hybrid | HPC-Big Data Clusters
 
-# Mini-HPC Cluster & Distributed Analysis Project
-
 ## Overview
 This project involves setting up a 3-node Mini-HPC Cluster on virtual machines. The infrastructure is orchestrated using Docker Swarm, and distributed data analysis is performed using Apache Spark to analyze gene expression datasets.
 
