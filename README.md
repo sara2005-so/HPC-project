@@ -1,6 +1,6 @@
 # HPC-project
 
-## Cluster Setup & Validation
+## Task1: Cluster Setup & Validation
 
 ### Network Hosts Setup
 ![Network Hosts Setup](01_network_hosts_setup.png)
