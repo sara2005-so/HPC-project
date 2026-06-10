@@ -30,7 +30,7 @@
 ## Task2: Execution and Analysis Flow
 
 ### 1. Docker Swarm Initialization
-![Docker Swarm Initialization](<Docker Swarm Initialization.png>)
+![Docker Swarm Initialization](<Final Analysis Results.png>)
 
 ### 2. Spark Stack Deployment
 ![Spark Stack Deployment](<Spark Stack Deployment.png>)
@@ -42,4 +42,5 @@
 ![Successful Containers Status](<Successful Containers Status.png>)
 
 ### 5. Final Analysis Results
-![Final Analysis Results](<Final Analysis Results.png>)
+![Final Analysis Results](<Docker Swarm Initialization.png>)
+
