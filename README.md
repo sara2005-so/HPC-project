@@ -1,24 +1,26 @@
-# Mini-HPC and Hybrid | HPC-Big Data Clusters
+# Hybrid HPC and Big Data Cluster for Bioinformatics Applications
 
-## Overview
-This project involves setting up a 3-node Mini-HPC Cluster on virtual machines. The infrastructure is orchestrated using Docker Swarm, and distributed data analysis is performed using Apache Spark to analyze gene expression datasets.
+## Project Overview
 
-## Deliverables Included
-- **Infrastructure:** Configured 3-node cluster with Passwordless SSH.
-- **Orchestration:** Docker Swarm stack deploying Spark master and worker nodes.
-- **Analysis:** Distributed Python script (`final_analysis.py`) for processing bioinformatics data.
+This project presents the design and implementation of a Hybrid High Performance Computing (HPC) and Big Data Cluster environment using OpenMPI, Docker Swarm, Apache Spark, and Python.
 
-## Project Structure
-- `hostfile`: Contains the IP addresses of the cluster nodes.
-- `spark-stack.yml`: The Docker stack configuration file.
-- `scripts/`: Contains the analysis script.
-- `screenshots/`: Visual evidence of the setup and execution steps.
-- `reports/`: Detailed project analysis report.
+The infrastructure consists of one master node and two worker nodes running Ubuntu Linux virtual machines. The cluster supports distributed computing workloads, machine learning tasks, and bioinformatics applications through parallel execution and scalable resource management.
 
-## How to Deploy
-1. Ensure the cluster is initialized: `docker swarm init`
-2. Deploy the stack: `docker stack deploy -c spark-stack.yml spark`
-3. Execute the analysis: `python3 scripts/final_analysis.py`
+The project is divided into two main phases:
+
+### Task 1 – Mini HPC Cluster
+- Passwordless SSH configuration
+- OpenMPI installation and validation
+- MPI Hello World execution
+- Distributed Machine Learning using the Digits dataset
+- Parallel Bioinformatics sequence analysis
+
+### Task 2 – Hybrid HPC + Big Data Cluster
+- Docker Swarm deployment
+- Apache Spark cluster setup
+- Distributed Gene Expression Analysis using PySpark
+
+The goal of this project is to demonstrate how modern HPC and Big Data technologies can be integrated to solve computationally intensive problems in bioinformatics and data science.
 
 ## screenshot:
 
