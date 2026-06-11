@@ -89,7 +89,19 @@ A screenshot of the Apache Spark Master Web UI accessed through the browser. The
 
 
 ## Distributed Gene Expression Analysis using PySpark
+The final phase involves utilizing PySpark to perform distributed gene expression analysis on a genomics dataset.
 
+#### 19. PySpark Installation
+![PySpark Installation](19_pyspark_installation.png)
+
+#### 20. Gene Expression Dataset Load
+![Gene Expression Dataset](20_gene_expression_dataset.png)
+
+#### 21. Gene Expression Script Creation
+![Gene Expression Script Creation](21_gene_expression_script_created.png)
+
+#### 22. Final Gene Expression Analysis Results
+![Final Gene Expression Analysis Results](22_gene_expression_results.png)
 
 ## Conclusion
 
