@@ -86,6 +86,8 @@ The goal of this project is to demonstrate how modern HPC and Big Data technolog
 Spark Master Web Interface:
 A screenshot of the Apache Spark Master Web UI accessed through the browser. The interface confirms the successful deployment of the Spark cluster on Docker Swarm and displays the active Spark Master service along with the cluster monitoring dashboard.
 
+
+
 ## Distributed Gene Expression Analysis using PySpark
 
 
