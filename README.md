@@ -83,6 +83,11 @@ The goal of this project is to demonstrate how modern HPC and Big Data technolog
 ### 10. Spark Web UI
 ![Spark Web UI](18_spark_web_ui.png)
 
+Spark Master Web Interface:
+A screenshot of the Apache Spark Master Web UI accessed through the browser. The interface confirms the successful deployment of the Spark cluster on Docker Swarm and displays the active Spark Master service along with the cluster monitoring dashboard.
+
+## Distributed Gene Expression Analysis using PySpark
+
 
 ## Conclusion
 
