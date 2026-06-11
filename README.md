@@ -53,7 +53,35 @@ The goal of this project is to demonstrate how modern HPC and Big Data technolog
 
 ## Task2: Docker Swarm & Apache Spark Deployment
 
+### 1. Docker Installation
+![Docker Installation](09_docker_installation.png)
 
+### 2. Docker Swarm Cluster Initialization
+![Docker Swarm Cluster Initialization](10_docker_swarm_cluster.png)
+
+### 3. Worker 1 Joining the Swarm
+![Worker 1 Joining the Swarm](11_worker1_join_swarm.png)
+
+### 4. Worker 2 Joining the Swarm
+![Worker 2 Joining the Swarm](12_worker2_join_swarm.png)
+
+### 5. Docker Swarm Nodes Status
+![Docker Swarm Nodes Status](13_docker_swarm_nodes.png)
+
+### 6. Spark Stack Configuration File
+![Spark Stack Configuration File](14_spark_stack_file.png)
+
+### 7. Spark Image Error
+![Spark Image Error](15_spark_image_error.png)
+
+### 8. Spark Deployment Attempt
+![Spark Deployment Attempt](16_spark_deployment_attempt.png.png)
+
+### 9. Spark Cluster Running
+![Spark Cluster Running](17_spark_cluster_running.png)
+
+### 10. Spark Web UI
+![Spark Web UI](18_spark_web_ui.png)
 
 
 ## Conclusion
