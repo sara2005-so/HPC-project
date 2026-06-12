@@ -51,7 +51,7 @@ The goal of this project is to demonstrate how modern HPC and Big Data technolog
 ![MPI Python Validation](08_mpi_python_validation.png)
 
 ### 9. MPI GC Content Distributed
-![MPI GC Content Distributed](24_MPI_GC_Content_Distributed.png)
+![MPI GC Content Distributed](23_MPI_GC_Content_Distributed.png)
 
 The DNA sequences were distributed across six MPI processes running on three cluster nodes (Master, Worker1, and Worker2). Each process independently calculated the GC Content of assigned sequences, demonstrating successful parallel bioinformatics computation using MPI.
 
