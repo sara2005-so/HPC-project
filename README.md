@@ -50,6 +50,11 @@ The goal of this project is to demonstrate how modern HPC and Big Data technolog
 ### 8. MPI Python Validation
 ![MPI Python Validation](08_mpi_python_validation.png)
 
+### 9. Bioinformatics GC Content
+![Bioinformatics GC Content](23_bioinformatics_gc_content.png)
+
+Parallel Bioinformatics Analysis using MPI:
+A genomic FASTA dataset was processed using a Python MPI application. The program reads DNA sequences and computes the GC Content percentage for each sequence. The output demonstrates the successful execution of a bioinformatics workload within the HPC environment and validates the functionality of the developed analysis pip
 
 ## Task2: Docker Swarm & Apache Spark Deployment
 
