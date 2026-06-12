@@ -94,7 +94,7 @@ During deployment, an image-related issue was encountered.
 
 The configuration was corrected and deployment was attempted again.
 
-![Spark Deployment Attempt](16_spark_deployment_attempt.png)
+![Spark Deployment Attempt](16_spark_deployment_attempt.png.png)
 
 The Spark cluster was then successfully deployed.
 
